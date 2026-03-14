@@ -74,12 +74,19 @@ Clone the repository:
 
 ```bash
 git clone <repository-url>
+```
+
 cd digital-risk-foundation
 
+Install Dependencies
+```bash
 npm install
-
+```
+Run client
+```bash
 npm run dev
 ```
-## 🌐 Runs ar
+
+## 🌐 Runs at
 🔗(https://localhost:8080/)
 
